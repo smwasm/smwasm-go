@@ -1,4 +1,4 @@
-module smwasm
+module github.com/smwasm/smwasm-go
 
 go 1.21.7
 
