@@ -1,7 +1,7 @@
 package smwasm
 
 /*
-#cgo LDFLAGS: -L./rustlib/target/release -lsmwasmgo_rustlib
+#cgo LDFLAGS: -L./lib -lsmwasmgo_rustlib
 #include <stdint.h>
 #include <stdlib.h>
 extern int32_t smwasm_load(const char *szWasm, int32_t space);
