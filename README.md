@@ -1,1 +1,0 @@
-# smwasm-go
